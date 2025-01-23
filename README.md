@@ -26,16 +26,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Setup Remote Desktop for non-administrative users 
 - Configure a Large Amount of Users in Powershell
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Step 1. Install Active Directory</h2>
 
-Step 1. Install Active Directory
 
 
 https://github.com/user-attachments/assets/03e6ab5b-3cd7-46da-9363-2cec6cae9871
 
 - Watch Instructional Video Above
 - Install Active Directory
-- 
+  
 
 <h2>Step 2. Create a Domain Admin user within the domain</h2>
 
